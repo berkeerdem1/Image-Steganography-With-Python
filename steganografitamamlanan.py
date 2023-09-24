@@ -127,7 +127,7 @@ class MyWindow(QtWidgets.QMainWindow):
 
     def __init__(self):
         super(MyWindow,self).__init__()
-        uic.loadUi('projeArayüz.ui', self)
+        uic.loadUi('Project Interface.ui', self)
 
         main_title = "Image Stegonagraphy"
         self.setWindowTitle(main_title)
