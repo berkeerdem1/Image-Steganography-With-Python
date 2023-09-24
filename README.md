@@ -7,6 +7,8 @@ Install and run the project:
 
 2)After downloading the zip files, create a project in Pycharm and copy the codes and interface to it. Make sure the titles are the same.
 
-3)Select the Python 3.8 you downloaded as the base in the project.
+3)Download a png file whose data you want to hide and place it inside the project folder on the desktop and in Pycharm.
 
-4)Finally, run Steganography Completed.
+4)Select the Python 3.8 you downloaded as the base in the project.
+
+5)Finally, run Steganography Completed.
